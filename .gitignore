@@ -1,1 +1,4 @@
-target/
+# Ignore the entire target directory
+/target/
+# Except for example.jar within the target directory
+!/target/example.jar
